@@ -50,6 +50,12 @@ body{
     -moz-box-shadow: 36px 34px 54px -19px rgba(143,143,143,1);
     box-shadow: 36px 34px 54px -19px rgba(143,143,143,1);
 }
+#about .container .btn:hover{
+    color: #212529;
+}
+#about .container .btn{
+    color: #fff;
+}
 #about .about-l{
     position: relative;
 }
